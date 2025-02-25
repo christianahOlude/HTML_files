@@ -1,0 +1,190 @@
+.task span{
+    color: rgb(64, 160, 224);
+
+}
+
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.home-btn{
+    display: flex;
+    gap: 16px;
+}
+
+p.start{
+    background:rgb(64, 160, 224);
+    border: solid 2px grey;
+    padding: 14px;
+    margin: 10px;
+    shape-margin: 10px;
+}
+
+.help-container{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    padding-left: 64px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.sign{
+    border: solid 2px grey;
+    padding: 10px 8px;
+    border-radius: 8px ;
+}
+
+.button-style {
+    background-color: dodgerblue;
+    border: none;
+    width: 120px;
+    padding: 14px;
+    color: white;
+}
+
+.btn {
+    background-color: white;
+    border: none;
+    width: 190px;
+    padding: 14px;
+    position: relative; 
+    top: 12px; 
+    left: 12px;
+
+}
+
+.pics{
+    display:flex;
+    padding-right: 64px;
+}
+
+.sun{
+    display: flex;
+    justify-content: center; 
+    text-align: center;
+    padding-right: 60px;
+}
+.text{
+    display:flex;
+    justify-content: center; 
+    padding-left: 100px;
+
+}
+.service span{
+    color: skyBlue;
+
+}
+p.children {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.picstwo {
+    display: flex;
+    justify-content: right;
+    padding-bottom: 200px;
+
+}
+p.texts{
+    background:rgb(64, 160, 224);
+    color: white;
+    
+}
+
+.box {
+    flex-basis: 50%;
+    display: inline-block;
+}
+.side{
+    flex-basis: 50%;
+    justify-content:center;
+    align-items: right;
+    padding-left: 1400px;
+
+}
+.three{
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+}
+.image{
+    display: flex;
+    justify-content: right;
+    padding-left: 10px;
+}
+
+.picture{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(64, 160, 224);
+    margin-left: 200px;
+    margin-right: 400px;
+    color: white;
+    margin-top: 100px;
+    
+}
+.picture h1{
+    margin-top: 150px;
+    margin-right: 200px;
+}
+.picture button{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+    background: white;
+    border-radius: 10px;
+    padding: 30px 15px;
+}
+.tablet{
+    display: flex;
+    align-items: center;
+}
+.tables{
+    padding-top: 15px;
+    padding-left: 400px;
+}
+.submit-button{
+    background: rgb(64, 160, 224);
+    margin-left: 600px;
+    border-radius: 20px;
+    padding: 30px 300px;
+}
+
+.logos{
+    display: flex;
+    margin-top: 150px;
+    align-items: center;
+}
+.logos span{
+    color: rgb(64, 160, 224);
+   
+}
+.services{
+    display: flex;
+    justify-content:space-between;
+    width: 70vw;
+    padding-left: 400px;
+}
+.accept{
+    color:rgb(64, 160, 224);
+    padding-left: 10px;
+    font: bold;
+}
+.copyright{
+    display:flex;
+    padding-left: 60px;
+}
+.cookies{
+    display: flex;
+    padding-left: 1200px;  
+}
+    
+
+
