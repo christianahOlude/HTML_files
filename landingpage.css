@@ -185,6 +185,13 @@ p.texts{
     display: flex;
     padding-left: 1200px;  
 }
-    
+.elder-div{
+    margin-right: 10%;
+    margin-top: 10%;
+
+}
+.elder-text{
+    margin-bottom: 10%;
+}
 
 
