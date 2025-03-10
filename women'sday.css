@@ -1,0 +1,12 @@
+.container{
+    
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: auto;
+}
+.box{
+    display : grid;
+    grid-template-columns:  repeat(3, 1fr);
+    gap: 10px;
+}
