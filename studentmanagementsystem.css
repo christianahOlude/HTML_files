@@ -1,0 +1,15 @@
+.header ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 800px;
+    list-style: none;
+}
+.full{
+    background-color: skyblue;
+    /* background-size: cover; */
+
+}
+.navBar h1{
+    color: pink;
+}
